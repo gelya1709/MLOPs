@@ -1,4 +1,5 @@
-# MLOPs: LendingClub Default Prediction — End-to-End MLOps on Databricks
+# LendingClub Default Prediction — End-to-End MLOps on Databricks
+
 
 ## Overview
 
