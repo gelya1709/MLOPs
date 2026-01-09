@@ -1,6 +1,6 @@
 # LendingClub Default Prediction — End-to-End MLOps on Databricks
 
-<img src="https://www.databricks.com/wp-content/uploads/2020/04/og-databricks.png" width="300" />
+<img src="https://www.databricks.com/wp-content/uploads/2020/04/og-databricks.png" width="500" />
 
 ## Overview
 
