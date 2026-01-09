@@ -1,6 +1,6 @@
 # LendingClub Default Prediction — End-to-End MLOps on Databricks
 
-![image](https://www.databricks.com/company/newsroom/press-releases/introducing-shutterstock-imageai-powered-databricks-image)
+![https://www.databricks.com/company/newsroom/press-releases/introducing-shutterstock-imageai-powered-databricks-image](https://www.databricks.com/wp-content/uploads/2020/04/og-databricks.png)
 
 ## Overview
 
